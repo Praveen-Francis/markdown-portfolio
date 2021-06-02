@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Books
+2. Internet
+3. Travel
+4. Friends
+5. College
