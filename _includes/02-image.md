@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+<img src= "https://media-exp1.licdn.com/dms/image/C5603AQFfkeHT0IjOrQ/profile-displayphoto-shrink_100_100/0/1622294366013?e=1628121600&v=beta&t=u5tTXjZCpXHGdq95W9fQK3Uqp8upfSQah6-Fq5mmPQY" alt="no-image">
